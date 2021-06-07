@@ -7,5 +7,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "absen":{
+    "status":1,
+    "message":"Data Berhasil Disimpan!"
   }
 }
