@@ -1,17 +1,25 @@
 {
+  
   "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
     {
       "id": 1,
       "title": "hello"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   },
+  
   "absen":{
     "status":1,
     "message":"Data Berhasil Disimpan!"
   },
+  
   "hasil": [
     {
       "status": 0,
@@ -21,5 +29,6 @@
       "status": 1,
       "message": "Data Berhasil Disimpan!"
     }
-  ],
+  ]
+  
 }
