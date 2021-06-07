@@ -11,5 +11,15 @@
   "absen":{
     "status":1,
     "message":"Data Berhasil Disimpan!"
-  }
+  },
+  "hasil": [
+    {
+      "status": 0,
+      "message": "Data Gagal Disimpan!"
+    },
+    {
+      "status": 1,
+      "message": "Data Berhasil Disimpan!"
+    }
+  ],
 }
