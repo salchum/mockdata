@@ -4,5 +4,9 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Absen": {
+    "status": "int",
+    "message": "string"
   }
 }
